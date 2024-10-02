@@ -1,0 +1,9 @@
+face_recognition @ git+https://github.com/rzn-git/face_recognition
+streamlit
+numpy   
+Pillow
+
+
+
+
+
